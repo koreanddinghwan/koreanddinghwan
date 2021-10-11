@@ -9,4 +9,4 @@
 👍Visit my [blog](https://koreanddinghwan.github.io/lightbig/)
 
 
-[](github-readme-stats.vercel.app/api?username={koreanddinghwan}&show_icons=true&theme=dark)
+[(github-readme-stats.vercel.app/api?username={koreanddinghwan}&show_icons=true&theme=dark)]
