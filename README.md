@@ -6,5 +6,6 @@
 
 🌱 I haven't chosen my primary language yet.
 
-👍Visit my [blog](https://koreanddinghwan.github.io/lightbig/)
+👍Visit my [blog](https://koreanddinghwan.github.io/lightbig/). 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&&show_icons=true&theme=dark)]
