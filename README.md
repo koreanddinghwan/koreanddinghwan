@@ -9,6 +9,8 @@
 👍Currently learning Algorithm By python 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkdaudghks99)](https://github.com/mazassumnida/mazassumnida)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 👍Currently learning React
  
