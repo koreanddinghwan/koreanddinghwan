@@ -6,7 +6,9 @@
 
 👍Visit my [blog](https://koreanddinghwan.github.io/). 
 
-👍Currently learning Algorithm By python [BOJ](https://www.acmicpc.net/user/rkdaudghks99).  
+👍Currently learning Algorithm By python 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkdaudghks99)](https://github.com/mazassumnida/mazassumnida)
 
 👍Currently learning React
  
