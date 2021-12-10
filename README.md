@@ -10,7 +10,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkdaudghks99)](https://github.com/mazassumnida/mazassumnida)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={rkdaudghks99})](https://solved.ac/{rkdaudghks99})
 
 👍Currently learning React
  
