@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan)][![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)](https://solved.ac/rkdaudghks99)
 
 🇰🇷 I'm from South Korea.  
 👍Visit my [blog](https://koreanddinghwan.github.io/). 
-
-
-👍Currently learning Algorithm By python  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)](https://solved.ac/rkdaudghks99)
 
 👍Currently learning React, Node.js
  
