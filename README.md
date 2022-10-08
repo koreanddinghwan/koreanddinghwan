@@ -1,5 +1,7 @@
 ### Hey there 👋
   
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)](https://solved.ac/rkdaudghks99)
