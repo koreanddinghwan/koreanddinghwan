@@ -1,6 +1,6 @@
 ### Currently Learning In
 
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=&logoColor=white" width="300">
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" width="100">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)
 [![Solved.ac
