@@ -5,8 +5,7 @@
 ## Recently
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)  
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)](https://solved.ac/rkdaudghks99)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)](https://solved.ac/rkdaudghks99)
 
 
 ## 💻 Interested in
