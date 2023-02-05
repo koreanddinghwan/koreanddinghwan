@@ -1,6 +1,7 @@
 ## Currently Learning In
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=42&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=42&logoColor=white" width="100">  
+<img src="https://user-images.githubusercontent.com/76278794/216842035-44b69c68-e105-4be4-892c-d6727f47f892.svg" width=100>
 
 ## Recently
 
