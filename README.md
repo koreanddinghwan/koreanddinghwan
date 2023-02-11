@@ -5,7 +5,7 @@
 <!-- ![Solved.ac프로필](https://solved.ac/rkdaudghks99) -->
 
 
-## 💻 이런걸 
+## 💻 이런걸 써봤습니다
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css&logoColor=white">  
