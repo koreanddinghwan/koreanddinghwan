@@ -32,5 +32,10 @@
 
 <br>
 
+### 서비스 인프라 구축에 대해서 공부하고있습니다. 23.2 ~ `Date.now()`
+<img src="https://img.shields.io/badge/aws-E0234E?style=for-the-badge&logo=aws&logoColor=white">
+
+<br>
+
 ### 주로 사용하는 에디터, 툴
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
