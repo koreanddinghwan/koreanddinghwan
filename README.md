@@ -17,7 +17,7 @@
 <br>
 
 ### 42에서는 이걸 배우고 있습니다. 22.3 ~ `Date.now()`
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-### 유지보수성 높은 프로젝트를 위한 프레임워크를 익히고 있습니다.
+### 유지보수성 높은 프로젝트를 위한 프레임워크를 익히고 있습니다. 23.1 ~ `Date.now()`
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 
 <br>
