@@ -28,7 +28,7 @@
 <br>
 
 ### 유지보수성 높은 프로젝트를 위한 프레임워크를 익히고 있습니다. 23.1 ~ `Date.now()`
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white">
 
 <br>
 
