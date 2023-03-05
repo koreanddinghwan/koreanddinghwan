@@ -21,7 +21,7 @@
 
 <br>
 
-### Pug 템플릿을 이용해 결합키 추천 프로젝트를 진행했습니다. 22.10 ~ 22.12
+### 관계형데이터베이스를 이용해 결합키 추천 프로젝트를 진행했습니다. 22.10 ~ 22.12
 <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
