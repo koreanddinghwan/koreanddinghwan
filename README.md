@@ -18,6 +18,7 @@
 
 ### 42에서는 이걸 배우고 있습니다. 22.3 ~ `Date.now()`
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">
+[42Cursus 과제 Repository](https://github.com/koreanddinghwan/42cursus)
 
 <br>
 
