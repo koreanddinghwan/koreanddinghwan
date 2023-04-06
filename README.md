@@ -17,7 +17,8 @@
 <br>
 
 ### 42에서는 이걸 배우고 있습니다. 22.3 ~ `Date.now()`
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">  
+
 [42Cursus 과제 Repository](https://github.com/koreanddinghwan/42cursus)
 
 <br>
@@ -31,7 +32,9 @@
 <br>
 
 ### 유지보수성 높은 프로젝트를 위한 프레임워크를 익히고 있습니다. 23.1 ~ `Date.now()`
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white">  
+
+[-PRIVATE-프로젝트](https://github.com/42projectPeople)
 
 <br>
 
@@ -41,4 +44,6 @@
 <br>
 
 ### 주로 사용하는 에디터, 툴
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  
+
+[Myukang's VIM Configuration](https://github.com/koreanddinghwan/vim-configuration)
