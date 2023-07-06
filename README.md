@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">  
+<img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">  
 
 [42Cursus 과제 Repository](https://github.com/koreanddinghwan/42cursus)
 
