@@ -10,7 +10,7 @@
 
 
 <img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">   
-[Docker & Docker Compose](https://github.com/koreanddinghwan/inception_priv)
+[Docker \& Docker Compose](https://github.com/koreanddinghwan/inception_priv)
 
 <br>
 
