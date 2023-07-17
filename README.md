@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 <img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white">  
 
-[-PRIVATE-프로젝트](https://github.com/42projectPeople)
+[-42people-프로젝트](https://github.com/42projectPeople)
 
 <br>
 
