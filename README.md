@@ -18,7 +18,7 @@
 
 ### Kqueue를 이용한 Nonblocking Webserver
 
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 [Webserv-Using-Kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)
 
