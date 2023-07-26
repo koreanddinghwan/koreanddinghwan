@@ -1,4 +1,4 @@
-# 💻 프로그래밍 스킬
+# 💻 Projects
 
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
