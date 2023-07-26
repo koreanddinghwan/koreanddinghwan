@@ -43,6 +43,15 @@
 <br>
 <br>
 
+## 실시간 채팅/게임 서비스
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">
+
+
+
+
+<br><br>
+
 # 알고리즘
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
