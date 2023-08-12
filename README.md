@@ -38,7 +38,7 @@
 <br>
 <br>
 
-## 서비스 인프라 구축 및 유지보수성 높은 프로젝트를 위한 프레임워크 학습 23.1 ~ `Date.now()`
+## 서비스 인프라 구축 및 유지보수성 높은 프로젝트를 위한 프레임워크 학습 23.1 ~ `23.5`
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
