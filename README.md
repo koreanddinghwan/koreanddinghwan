@@ -2,8 +2,6 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
   
-# Projects
-
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
 
