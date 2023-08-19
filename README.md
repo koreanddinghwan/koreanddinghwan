@@ -21,11 +21,11 @@
 
 ### Projects
 
-[RDBMS management program like PHPMyAdmin](https://github.com/PreswotLab/preswotlab)
+[RDBMS management program](https://github.com/PreswotLab/preswotlab)
 
 <br>
 
-[42people-프로젝트](https://github.com/42projectPeople)
+[42people](https://github.com/42projectPeople)
 
 <br>
 
