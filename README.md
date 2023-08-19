@@ -25,7 +25,7 @@
 
 <br>
 
-[-42people-프로젝트](https://github.com/42projectPeople)
+[42people-프로젝트](https://github.com/42projectPeople)
 
 <br>
 
