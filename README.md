@@ -5,12 +5,7 @@
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
 
-## In 42
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">   
-
-
-[Webserv-Using-Kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 <br>
 <br>
