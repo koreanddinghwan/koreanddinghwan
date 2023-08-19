@@ -7,22 +7,10 @@
 
 ## In 42
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white">  
-
-[42Cursus 과제 Repository](https://github.com/koreanddinghwan/42cursus)  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">   
 
 
-<img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">   
-
-[Docker & Docker Compose](https://github.com/koreanddinghwan/inception_priv)
-
-<br>
-
-### Nonblocking Webserver using KQueue
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-
-[Webserv-Using-Kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)
+[Webserv-Using-Kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 <br>
 <br>
@@ -34,39 +22,17 @@
 <br>
 <br>
 
-## Service Infra/High Maintainability Frameworks/Tools
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-
-[-42people-프로젝트](https://github.com/42projectPeople)
+[-42people-프로젝트](https://github.com/42projectPeople)<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
 <br>
 <br>
 
-## Realtime Game/Chat Service
+[Realtime PingPong Game/Chat Service]()<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">
-
-
-
-
-<br><br>
-
-# 알고리즘
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
-![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)  
+<!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
 <!-- ![Solved.ac프로필](https://solved.ac/rkdaudghks99) -->
-
-<br><br>
-
-# 자격증
-
-| 자격증 명 | 발급 기관 | 취득 일자 |
-|---------|---------|---------|
-| SQLD | 한국데이터산업진흥원 | 2021.10.01 |
-
-
 
 <br><br>
 
