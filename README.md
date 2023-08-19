@@ -21,16 +21,19 @@
 
 ### Projects
 
-[RDBMS management program](https://github.com/PreswotLab/preswotlab)
+[RDBMS Management Application](https://github.com/PreswotLab/preswotlab)
 
 <br>
 
-[42people](https://github.com/42projectPeople)
+[Event Making Service for 42](https://github.com/42projectPeople)
 
 <br>
 
 [Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)
 
+<br>
+
+[Mentoring Service for 42](https://github.com/manito42/backend)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
