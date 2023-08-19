@@ -21,19 +21,12 @@
 
 ### Projects
 
-[RDBMS Management Application](https://github.com/PreswotLab/preswotlab)
-
-<br>
-
-[Event Making Service for 42](https://github.com/42projectPeople)
-
-<br>
-
-[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)
-
-<br>
-
-[Mentoring Service for 42](https://github.com/manito42/backend)
+| | | |
+|---|---|---|
+|22.10 ~ 22.12| 데이터베이스 팀프로젝트 |[RDBMS Management Application](https://github.com/PreswotLab/preswotlab)|
+|23.01 ~ 23.04| 이벤트 매칭 서비스 |[Event Making Service for 42](https://github.com/42projectPeople)|
+|23.07 ~ | 실시간 게임/채팅 서비스 |[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)|
+|23.08 ~ | 멘토링 중개 서비스 |[Mentoring Service for 42](https://github.com/manito42/backend)|
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
