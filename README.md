@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"><img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">  
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  
 
 <br>
 <br>
@@ -19,25 +21,15 @@
 
 [RDBMS management program like PHPMyAdmin](https://github.com/PreswotLab/preswotlab)
 
-
-<br>
 <br>
 
 [-42people-프로젝트](https://github.com/42projectPeople)
-<br>
+
 <br>
 
-[Realtime PingPong Game/Chat Service]()
+[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
 <!-- ![Solved.ac프로필](https://solved.ac/rkdaudghks99) -->
-
-<br><br>
-
-# 주로 사용하는 에디터
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  
-
-[Myukang's VIM Configuration](https://github.com/koreanddinghwan/vim-configuration)
