@@ -25,7 +25,7 @@
 |---|---|---|---|
 |22.10 ~ 22.12| 데이터베이스 팀프로젝트 |[RDBMS Management Application](https://github.com/PreswotLab/preswotlab)|<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">|
 |23.01 ~ 23.04| 이벤트 매칭 서비스 |[Event Making Service for 42](https://github.com/42projectPeople)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">|
-|23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)||
+|23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">|
 |23.07 ~ | 실시간 게임/채팅 서비스 |[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">|
 |23.08 ~ | 멘토링 중개 서비스 |[Mentoring Service for 42](https://github.com/manito42/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">|
 
