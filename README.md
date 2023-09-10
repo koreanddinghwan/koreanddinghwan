@@ -25,9 +25,9 @@
 
 ### Fundamentals
 
-| | | ||
-|---|---|---|---|
-|23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">|
+| | | |||
+|---|---|---|---|---|
+|23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">|[회고록](https://velog.io/@koreanddinghwan/%ED%9A%8C%EA%B3%A0%EB%A1%9DWebServ)|
 
 ### Web
 
