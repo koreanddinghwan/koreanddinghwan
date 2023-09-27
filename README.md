@@ -56,3 +56,6 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
 <!-- ![Solved.ac프로필](https://solved.ac/rkdaudghks99) -->
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koreanddinghwan)](https://github.com/eungyeole/velog-readme-stats)
