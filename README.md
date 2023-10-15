@@ -45,6 +45,8 @@
 |23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">|[회고록](https://velog.io/@koreanddinghwan/%ED%9A%8C%EA%B3%A0%EB%A1%9DWebServ)|
 |23.09 ~ | JavaC | [Make Own Java-Compiler](https://github.com/koreanddinghwan/javac) | <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"> | private for univ's assignment|
 
+<br>
+
 ### Web
 
 | | | |||
@@ -53,6 +55,14 @@
 |23.01 ~ 23.04| 이벤트 매칭 서비스 |[Event Making Service for 42](https://github.com/42projectPeople)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
 |23.07 ~ 23.10| 실시간 게임/채팅 서비스 |[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
 |23.08 ~ | 멘토링 중개 서비스 |[Mentoring Service for 42](https://github.com/manito42/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
+
+<br>
+
+### DevOps
+
+||||
+|---|---|---|
+| Github Pages, Action을 사용한 OpenApi Document 자동배포 |  [Trigger](https://github.com/manito42/backend/blob/master/.github/workflows/deploy-api-docs.yml)  [Dispatcher](https://github.com/manito42/api-docs/blob/master/.github/workflows/download-apidocs.yml) | |
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
