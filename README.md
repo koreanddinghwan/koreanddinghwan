@@ -62,7 +62,8 @@
 
 ||||
 |---|---|---|
-| Github Pages, Action을 사용한 OpenApi Document 자동배포 |  [Trigger](https://github.com/manito42/backend/blob/master/.github/workflows/deploy-api-docs.yml)  [Dispatcher](https://github.com/manito42/api-docs/blob/master/.github/workflows/download-apidocs.yml) | |
+| Github Pages, Action을 사용한 OpenApi Document 자동배포 |  [Trigger](https://github.com/manito42/backend/blob/master/.github/workflows/deploy-api-docs.yml) and [Dispatcher](https://github.com/manito42/api-docs/blob/master/.github/workflows/download-apidocs.yml) | |
+| 서버 아키텍처 설계, 구축 | [아키텍처](https://github.com/manito42/backend/wiki#architecture)| |
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
 <!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
