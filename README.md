@@ -78,7 +78,7 @@
 |---|---|---|
 | Type| PullRequest or Issues | Status |
 | Docs | [docs(events): add events listener options](https://github.com/nestjs/docs.nestjs.com/pull/2888)| Approved|
-| Docs | [ko] "Installing kubeadm" page references deprecated legacy repositories | Issued |
+| Docs | [\[ko\] "Installing kubeadm" page references deprecated legacy repositories](https://github.com/kubernetes/website/issues/43628?notification_referrer_id=NT_kwDOBIvsCrM4MTM5NDExNTUxOjc2Mjc4Nzk0) | Issued |
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koreanddinghwan)](https://github.com/eungyeole/velog-readme-stats)
