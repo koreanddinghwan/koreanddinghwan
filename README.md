@@ -80,5 +80,12 @@
 | Docs | [docs(events): add events listener options](https://github.com/nestjs/docs.nestjs.com/pull/2888)| Merged |
 | Docs | [\[ko\] "Installing kubeadm" page references deprecated legacy repositories](https://github.com/kubernetes/website/issues/43628?notification_referrer_id=NT_kwDOBIvsCrM4MTM5NDExNTUxOjc2Mjc4Nzk0) | Issued |
 
+<br><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koreanddinghwan)](https://github.com/eungyeole/velog-readme-stats)
+## Study
+
+|||
+|---|---|
+|기간|스터디명|
+|23.09 ~ | 데이터베이스 스터디|
+|23.11 ~ | 우아한 스터디 8weeks later|
