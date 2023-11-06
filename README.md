@@ -56,7 +56,7 @@
 |23.01 ~ 23.04| 이벤트 매칭 서비스 |[Event Making Service for 42](https://github.com/42projectPeople)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
 |23.07 ~ 23.10| 실시간 게임/채팅 서비스 |[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
 |23.08 ~ | 멘토링 중개 서비스 |[Mentoring Service for 42](https://github.com/manito42/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
-|23.11 ~ | 위에꺼 고랭으로 포팅해보기 |[Mentoring Service for 42](https://github.com/8-weeks-later/golang-with-k8s)|<img src="https://img.shields.io/badge/Go-E0234E?style=for-the-badge&logo=Go&logoColor=white">||
+|23.11 ~ | 위에꺼 고랭으로 포팅해보기 |[Mentoring Service for 42](https://github.com/8-weeks-later/golang-with-k8s)|<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">| 솔플중 |
 
 <br>
 
