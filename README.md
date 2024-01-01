@@ -1,6 +1,8 @@
 # Hello
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 📚 Studying at Yonsei University, School of Business (2018.3 - Present)
+- 💻 6th-cadet at 42Seoul (2022.3 - Present)
+- 👨‍💻 Freelancer Backend Developer at Haii (2023.11 - Present)
   
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
