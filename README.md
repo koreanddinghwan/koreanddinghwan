@@ -4,7 +4,7 @@
 - 💻 6th-cadet at 42Seoul (2022.3 - )
 - 👨‍💻 Freelancer Developer at Haii (2023.11 - 2024.02)
 - Backend Developer at Haii (2024.02 - 2024.09)
-- co-founder, CTO at Flat (2024.10 - )
+- co-founder, CTO at startup (2024.10 - )
   
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
