@@ -5,8 +5,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoreanddinghwan&count_bg=%23D0D7CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 📚 Studying at Yonsei University, School of Business (2018.3 - Present)
-- 💻 6th-cadet at 42Seoul (2022.3 - Present)
-- 👨‍💻 Backend Developer at Haii (2023.11 - Present)
+- 💻 6th-cadet at 42Seoul (2022.3 - )
+- 👨‍💻 Freelancer Developer at Haii (2023.11 - 2024.02)
+- Backend Developer at Haii (2024.02 - 2024.09)
+- co-founder, CTO at Flat (2024.10 - )
   
 <!-- https://simpleicons.org/  -->
 <!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
