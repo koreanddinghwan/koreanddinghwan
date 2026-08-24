@@ -1,98 +1,52 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoreanddinghwan&count_bg=%23D0D7CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 강명환 · Backend Engineer
 
-- 📚 Studying at Yonsei University, School of Business (2018.3 - Present)
-- 💻 6th-cadet at 42Seoul (2022.3 - )
-- 👨‍💻 Freelancer Developer at Haii (2023.11 - 2024.02)
-- Backend Developer at Haii (2024.02 - 2024.09)
-- co-founder, CTO at startup (2024.10 - 2026.1)
-  
-<!-- https://simpleicons.org/  -->
-<!-- <img src="https://img.shields.io/badge/기술이름-색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">  -->
+제품 요구를 API·데이터·비동기 처리·실시간 통신의 경계로 바꾸고, 배포와 운영까지 연결합니다.
 
-<br>
+Node.js / NestJS 제품 백엔드 실무를 중심으로 Java / Spring 역량을 확장하고 있습니다.
+
+[Portfolio](https://myunghwan-backend.myunghwan0421.chatgpt.site) · [Resume](https://myunghwan-backend.myunghwan0421.chatgpt.site/resume) · [Email](mailto:myunghwan0421@gmail.com)
+
+## Experience
+
+- **㈜플랫 / COUT** — 공동창업자·백엔드 개발 총괄, 정규직·상근 (2024.09.30–2026.01.31)
+  - 개발 인력 1명으로 NestJS 서버·모바일·공개 웹·관리자·GCP의 기술 구현과 운영을 담당했습니다.
+  - API·Admin·Chat·Worker 4개 실행 단위, PostgreSQL·Redis·Bull·Socket.IO의 실패 경계를 설계했습니다.
+- **주식회사 하이** — 개발1팀 백엔드 개발자, 정규직 (2024.02.20–2024.09.27)
+  - 점진적 데이터 마이그레이션, ML 호출 비동기화, 구버전 호환 i18n과 교차 서비스 API 계약을 구현했습니다.
+- **Haii 플랫폼개발팀** — 백엔드 개발 프리랜서 (2023.11.20–2024.02.19)
+  - Go PDF 생성 경로의 병렬화와 Kubernetes workload 격리를 담당했습니다.
+
+## Selected Work
+
+- [Backend Portfolio](https://myunghwan-backend.myunghwan0421.chatgpt.site) — COUT, KMI, Leetdash, Spring concurrency lab의 판단·결과·근거
+- [COUT Case Study](https://myunghwan-backend.myunghwan0421.chatgpt.site/case-studies/cout) — 댓글 목록의 코드상 DB read 경로를 페이지당 최상위 댓글 5개 조건에서 9–14회 → 3회로 축소
+- [Leetdash](https://github.com/whoisyourbias/leetdash) — Accepted → Draft PR → Validate → AI Review Gate → Merge → Pages 자동화
+- [Java / Spring Concurrency Lab](https://github.com/whoisyourbias/playground/blob/main/docs/direct-db-experiment.md) — 70개 부하 케이스·274,999 요청·정합성 위반 0의 공개 재현 실험
+- [kqueue Web Server](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue) — HTTP/1.1·CGI·partial write·I/O multiplexing 직접 구현
+
+수치의 측정 범위와 한계는 Portfolio의 Evidence Ledger에 함께 공개합니다. Java / Spring은 현재 프로젝트·교육 경험이며 production 경험으로 주장하지 않습니다.
 
 ## Skills
 
- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/linux-00599C?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">  
-<img src="https://img.shields.io/badge/TypeOrm-E0234E?style=for-the-badge&logo=TypeOrm&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+**Production**
 
+TypeScript · NestJS · PostgreSQL · Redis · Bull · Socket.IO · GCP · Docker · Kubernetes · Go
 
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EC2-527FFF?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white">  
+**Projects / Learning**
 
-### IDE
+Java 21 · Spring Boot 3 · GitHub Actions · C++ · kqueue
 
-|||
-|---|---|
-|NestJS|<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">,<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">|
-|Spring|<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">|
-|Go|<img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white">|
+## Education
 
-<br>
-<br>
+- **연세대학교 경영학과** — 2018.03–2026.08 졸업
+- **SSAFY 16기** — 2026.07–현재, Java / Spring 백엔드 과정
+- **42서울 6기** — 2022.03–2024.03, 2년 수료
+- **SQLD** — 2021.10 취득
 
-### Currently Interested In
+## GitHub Identity
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=Wails&logoColor=white"><img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white">  
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=white">
-<br>
-<br>
+- [`koreanddinghwan`](https://github.com/koreanddinghwan) — 개발 초기·시스템·백엔드 프로젝트
+- [`myukang-flat`](https://github.com/myukang-flat) — COUT 창업기 개발 계정
+- [`whoisyourbias`](https://github.com/whoisyourbias) — SSAFY·Java/Spring·현재 프로젝트
 
-
-
-## Projects
-
-### Fundamentals
-
-| | | |||
-|---|---|---|---|---|
-| -  | 이벤트루프를 직접 확인하기위해 직접 컴파일한 NodeJS  | [MyCompiledNode](https://github.com/koreanddinghwan/myCompiledNode)| <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> |[작성 글](https://koreanddinghwan.github.io/nodejs/1/) |
-|23.05 ~ 23.07| 커널 알림 메커니즘을 통한 C++ 웹서버 | [C++ WebServer Using kqueue](https://github.com/koreanddinghwan/nginx-like-webserv-using-kqueue)|<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">|[회고록](https://velog.io/@koreanddinghwan/%ED%9A%8C%EA%B3%A0%EB%A1%9DWebServ)|
-|23.09 ~ | JavaC | [Make Own Java-Compiler](https://github.com/koreanddinghwan/javac) | <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"> | private for univ's assignment|
-
-<br>
-
-### Web
-
-| | | |||
-|---|---|---|---|---|
-|22.10 ~ 22.12| 데이터베이스 팀프로젝트 |[RDBMS Management Application](https://github.com/PreswotLab/preswotlab)|<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">||
-|23.01 ~ 23.04| 이벤트 매칭 서비스 |[Event Making Service for 42](https://github.com/42projectPeople)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
-|23.07 ~ 23.10| 실시간 게임/채팅 서비스 |[Realtime PingPong Game/Chat Service](https://github.com/42-pingpong/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
-|23.08 ~ | 멘토링 중개 서비스 |[Mentoring Service for 42](https://github.com/manito42/backend)|<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">||
-
-
-<br>
-
-### DevOps
-
-||||
-|---|---|---|
-| Github Pages, Action을 사용한 OpenApi Document 자동배포 |  [Trigger](https://github.com/manito42/backend/blob/master/.github/workflows/deploy-api-docs.yml) and [Dispatcher](https://github.com/manito42/api-docs/blob/master/.github/workflows/download-apidocs.yml) | |
-| 서버 아키텍처 설계, 구축 | [아키텍처](https://github.com/manito42/backend/wiki#architecture)| |
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanddinghwan&show_icons=true&theme=radical)-->
-<!--![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdaudghks99)-->
-<!-- ![Solved.ac프로필](https://solved.ac/rkdaudghks99) -->
-
-<br><br>
-
-## OpenSource Contributes
-
-||||
-|---|---|---|
-| Type| PullRequest or Issues | Status |
-| Docs | [docs(events): add events listener options](https://github.com/nestjs/docs.nestjs.com/pull/2888)| Merged |
-| Docs | [\[ko\] "Installing kubeadm" page references deprecated legacy repositories](https://github.com/kubernetes/website/issues/43628?notification_referrer_id=NT_kwDOBIvsCrM4MTM5NDExNTUxOjc2Mjc4Nzk0) | Issued |
-
-<br><br>
-
-## Study
-
-||||
-|---|---|---|
-|기간|스터디명| 기관 |
-|22.02 ~ 04 | C++ 스터디 | YCC |
+세 계정의 기여자는 모두 강명환입니다.
