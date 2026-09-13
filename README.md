@@ -25,6 +25,18 @@ Node.js / NestJS 제품 백엔드 실무 2년 2개월을 기반으로 Java / Spr
 
 수치의 출처·산식·측정 범위는 [Evidence Appendix](https://myunghwan-backend.myunghwan0421.chatgpt.site/evidence)에 공개합니다. Java / Spring은 교육·공개 실험 경험으로 구분합니다.
 
+## Open Source Contributions
+
+외부 오픈소스 프로젝트에 제출한 문서 기여입니다. 상태는 2026-09-13 기준이며, 각 PR에서 최신 상태를 확인할 수 있습니다.
+
+| 프로젝트 | 기여 내용 | PR | 상태 |
+| --- | --- | --- | --- |
+| NestJS | 이벤트 리스너 옵션 설명 보강 | [#2888](https://github.com/nestjs/docs.nestjs.com/pull/2888) | **Merged** · 2023-10-23 |
+| NestJS | NestJS 12의 AWS Lambda 실행에 필요한 `NODE_OPTIONS=--experimental-require-module` 설정 안내 | [#3530](https://github.com/nestjs/docs.nestjs.com/pull/3530) | **Open** · 리뷰 대기 |
+| Kubernetes | kubeadm 설치 가이드 한국어 문서 업데이트 제안 | [#44920](https://github.com/kubernetes/website/pull/44920), [#44922](https://github.com/kubernetes/website/pull/44922) | **Closed** · 미병합 |
+
+NestJS #2888과 Kubernetes PR은 `koreanddinghwan`, NestJS #3530은 `whoisyourbias` 계정으로 제출했습니다.
+
 ## Skills
 
 **Backend**
